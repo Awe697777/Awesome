@@ -1,4 +1,4 @@
-# Awesome Multivendor Ecommerce Platform
+# AweKelabu Multivendor Ecommerce Platform
 
 Welcome to the Multivendor Ecommerce Platform repository! This platform is designed to enable multiple vendors to sell their products through a single online marketplace. With a range of essential features, including user authentication, product management, shopping cart functionality, and order management, this platform aims to provide a seamless shopping experience for both vendors and customers.
 
